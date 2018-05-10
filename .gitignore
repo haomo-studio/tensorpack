@@ -87,3 +87,5 @@ target/
 
 .idea/
 *.diff
+
+!examples/HED/ceo_sm.jpg
